@@ -23,18 +23,18 @@ This project is a command-line based Student Management System developed using P
 - JSON
 - OS Module
 
----
 
 ## Project Structure
 
+```plaintext
 Task7_StudentManagement/
 │
-├── main.py
-├── students.json
-├── README.md
-└── screenshots/
+├── main.py           # Main application file
+├── students.json     # Stores student records
+├── README.md         # Project documentation
+└── screenshots/      # Output screenshots
+```
 
----
 
 ## How to Run
 
